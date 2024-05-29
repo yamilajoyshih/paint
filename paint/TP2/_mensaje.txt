@@ -1,0 +1,6 @@
+nombre de la materia: algoritmos y programación I
+   cátedra: ESSAYA
+   práctica: ALAN
+   el nombre del alumno: Joy Yamila Shih
+   padrón: 110521
+   ayudante a cargo: Mauro Santoni
